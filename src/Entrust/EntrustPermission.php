@@ -1,11 +1,11 @@
-<?php namespace Zizaco\Entrust;
+<?php namespace MatoMoravcik\Entrust;
 
 /**
  * This file is part of Entrust,
  * a role & permission management solution for Laravel.
  *
  * @license MIT
- * @package Zizaco\Entrust
+ * @package MatoMoravcik\Entrust
  */
 
 use Zizaco\Entrust\Contracts\EntrustPermissionInterface;
