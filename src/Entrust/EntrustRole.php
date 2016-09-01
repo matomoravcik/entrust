@@ -8,8 +8,8 @@
  * @package MatoMoravcik\Entrust
  */
 
-use Zizaco\Entrust\Contracts\EntrustRoleInterface;
-use Zizaco\Entrust\Traits\EntrustRoleTrait;
+use MatoMoravcik\Entrust\Contracts\EntrustRoleInterface;
+use MatoMoravcik\Entrust\Traits\EntrustRoleTrait;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Config;
 

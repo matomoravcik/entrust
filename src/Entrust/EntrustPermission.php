@@ -8,8 +8,8 @@
  * @package MatoMoravcik\Entrust
  */
 
-use Zizaco\Entrust\Contracts\EntrustPermissionInterface;
-use Zizaco\Entrust\Traits\EntrustPermissionTrait;
+use MatoMoravcik\Entrust\Contracts\EntrustPermissionInterface;
+use MatoMoravcik\Entrust\Traits\EntrustPermissionTrait;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Config;
 
